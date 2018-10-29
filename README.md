@@ -1,1 +1,5 @@
-個人網誌:https://localhost:8443/get_page/%E7%B0%A1%E4%BB%8B
+網站:https://mdecp2018.github.io/site-s40723238/
+
+簡報:https://mdecp2018.github.io/site-s40723238/reveal/
+
+網誌:https://mdecp2018.github.io/site-s40723238/blog/
